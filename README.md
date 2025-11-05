@@ -1,2 +1,11 @@
-# Jeevita-Your-Life-Your-Care
-A smart Bangladeshi health-tech platform combining Doctor Appointments, Medicine Delivery, and Hospital Directory — all in one seamless website with manual bKash/Nagad payment verification, dark/light mode, English–Bangla support, and full admin control.
+
+  # Health-Tech Platform Development
+
+  This is a code bundle for Health-Tech Platform Development. The original project is available at https://www.figma.com/design/SDqCzS5w1uvmfRyMeJyqWy/Health-Tech-Platform-Development.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
